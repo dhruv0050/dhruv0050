@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhruuv05" target="blank"><img src="https://img.shields.io/twitter/follow/dhruuv05?logo=twitter&style=for-the-badge" alt="dhruuv05" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development and DSA**
+- 🔭 I’m currently working on **Frontend Development and DSA**
 
-- 🌱 I’m currently learning **Python , Javascript , etc.**
+- 🌱 I’m currently learning **MERN Stack, Python , Javascript , etc.**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
