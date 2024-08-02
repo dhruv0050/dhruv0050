@@ -21,15 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruuv05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruuv05" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruuv05" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=1060&t=st=1722584490~exp=1722585090~hmac=4607fecdea1fd9ac29d8f491ebe22a283c0e1a9022a3479940400c18330b2509" alt="dhruuv05" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-sharma-331379154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/dh.ruv05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh.ruv05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsh5467" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvsh5467" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dhruv05" target="_blank">
-  <img align="center" src="https://drive.google.com/uc?export=view&id=1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf" alt="dhruv05" height="30" width="30" />
-</a>
-
+<a href="https://hashnode.com/@dhruv05" target="_blank"><img align="center" src="https://drive.google.com/uc?export=view&id=1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf" alt="dhruv05" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
