@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend Development and DSA**
 
-- 🌱 I’m currently learning **MERN Stack, Python , Javascript , etc.**
+- 🌱 I’m currently learning **MERN Stack, Python , Javascript , GOLang, etc.**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
