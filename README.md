@@ -26,7 +26,7 @@
 <a href="https://instagram.com/dh.ruv05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh.ruv05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsh5467" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvsh5467" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dhruv05" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="dhruv05" height="30" width="30" /></a>
+<a href="https://hashnode.com/@dhruv05" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="dhruv05" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
