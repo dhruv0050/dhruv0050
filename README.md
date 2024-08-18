@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsh5467" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvsh5467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvsh5467" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dhrruv05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dhrruv05/" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/dhrruv" target="blank"><img align="center" src="https://www.facebook.com/photo/?fbid=702154691949840&set=a.650905067074803" alt="https://www.codingninjas.com/" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/dhrruv" target="blank"><img align="center" src="[https://www.facebook.com/photo/?fbid=702154691949840&set=a.650905067074803" alt="https://www.codingninjas.com/](https://yt3.googleusercontent.com/Qak2Unp_tDxiEMmSwOj8oSUZLMytk7fcWSZA5UL2eWaxBOgUCnyvEQorbcwnVQderfZQLrko=s900-c-k-c0x00ffffff-no-rj)" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dhruv05" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" alt="dhruv05" height="40" width="40" /></a>
 </p>
 
