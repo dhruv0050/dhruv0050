@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Dhruv Sharma</h1>
 <h3 align="center">An enthusiastic web developer and Computer Science student from India</h3>
+![Nuxtocat](https://octodex.github.com/nuxtocat/)
 <img src="https://octodex.github.com/nuxtocat/" alt="Nuxtocat" width="400">
 
 
