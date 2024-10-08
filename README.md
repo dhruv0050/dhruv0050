@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic web developer and Computer Science student from India</h3>
 
 <p align="center">
-    <img src="https://octodex.github.com/images/nuxtocat.png" alt="Nuxtocat" width="400"/>
+    <img src="https://octodex.github.com/tentocat/" alt="Nuxtocat" width="400"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0050&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv0050" /> </p>
