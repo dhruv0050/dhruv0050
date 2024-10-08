@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Dhruv Sharma</h1>
 <h3 align="center">An enthusiastic web developer and Computer Science student from India</h3>
 
-<p align="center">
-    <img src="https://octodex.github.com/images/tentocats.jpg" alt="Nuxtocat" width="400"/>
-</p>
+<div style="background-color: black; padding: 20px; border-radius: 10px; display: inline-block;">
+    <img src="https://octodex.github.com/images/tentocats.jpg" alt="Tentocats" width="400"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv0050&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv0050" /> </p>
 
