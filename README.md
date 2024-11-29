@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/dhruv-sharma-331379154/" target="blank"><img src="https://img.shields.io/twitter/follow/dhruuv05?logo=twitter&style=for-the-badge" alt="dhruuv05" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development and DSA**
+- 🔭 I’m currently working on **Full Stack Development and DSA**
 - 🌱 I’m currently learning **MERN Stack, Python, Javascript, Golang, etc.**
 - 👯 I’m looking to collaborate on **Frontend Development**
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv0050](https://github.com/dhruv0050)
