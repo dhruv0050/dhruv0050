@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development and DSA**
 - 🌱 I’m currently learning **MERN Stack, Python, Javascript, Golang, etc.**
-- 👯 I’m looking to collaborate on **Frontend Development**
+- 👯 I’m looking to collaborate on **Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv0050](https://github.com/dhruv0050)
 - 📫 How to reach me **dhruvsh5467@gmail.com**
 
