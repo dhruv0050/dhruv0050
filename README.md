@@ -2,7 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Dhruv+Sharma!;" />
 </h1>
 <h3 align="center">An enthusiastic web developer and Computer Science student from India</h3>
-<a align="center" href= "https://dhruvs-portfolio-khaki.vercel.app/">Know Me Better</a>
+<p align="center">
+  <a href="https://dhruvs-portfolio-khaki.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none;">
+    <b>Know Me Better</b>
+  </a>
+</p>
+
 
 <p align="center">
     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Nuxtocat" width="400"/>
