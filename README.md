@@ -2,11 +2,11 @@
 <div align="center">
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&color=58A6FF&background=00000000&multiline=true&lines=Hi+there!+%F0%9F%91%8B;I'm+Dhruv+Sharma;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&color=58A6FF&background=00000000&multiline=true&lines=Hi+there!+%F0%9F%91%8B;I'm+Dhruv+Sharma;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
   
   <!-- Subtitle -->
-  <h3 style="color: #7C3AED; font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 300; margin-top: 10px;">
-    🚀 Passionate Web Developer & Computer Science Student from India
+  <h3 style="color: #7C3AED; font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; margin-top: 10px;">
+    A Passionate Web Developer & Computer Science Student from India
   </h3>
   
   <!-- Portfolio Link -->
@@ -19,11 +19,6 @@
   <!-- Animated Character -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Coding Octocat" width="300" style="margin: 20px 0;"/>
   
-  <!-- Visitor Counter -->
-  <p>
-    <img src="https://visitcount.itsvg.in/api?id=dhruv0050&icon=5&color=12" alt="Visitor Count"/>
-  </p>
-  
 </div>
 
 ---
@@ -35,7 +30,7 @@ const dhruv = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: ["Full Stack Development", "Data Structures & Algorithms"],
-    learning: ["MERN Stack", "Python", "JavaScript", "Golang"],
+    learning: ["NextJS", "AI/ML", "DevOps", "Open Source"],
     interests: ["Web Development", "Open Source", "Problem Solving"],
     funFact: "I debug code with console.log() and I'm not ashamed! 😄"
 };
@@ -52,7 +47,7 @@ const dhruv = {
     </tr>
     <tr>
       <td>🌱 <strong>Learning Journey</strong></td>
-      <td>MERN Stack, Python, JavaScript, Golang</td>
+      <td>NextJS, AI/ML, Devops, Open Source</td>
     </tr>
     <tr>
       <td>👯 <strong>Collaboration</strong></td>
@@ -192,7 +187,7 @@ const dhruv = {
   
   ### 💝 **Show Some Love!**
   
-  <p style="color: #7C3AED; font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;">
+  <p style="color: #7C3AED; font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     If you find my work interesting, consider giving it a ⭐️<br>
     <strong>Let's build something amazing together! 🚀</strong>
   </p>
