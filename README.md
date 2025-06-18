@@ -154,8 +154,6 @@ const dhruv = {
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=dhruv0050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
   
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv0050&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
-  
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Most Used Languages"/>
   
 </div>
