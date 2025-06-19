@@ -148,23 +148,55 @@ const dhruv = {
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Statistics**
 
 <div align="center">
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dhruv0050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv0050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8&exclude_repo=repo1,repo2" alt="Most Used Languages"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv0050&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=7C3AED" alt="GitHub Streak"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv0050&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="GitHub Activity Graph"/>
   
 </div>
 
 ---
 
-## 🏆 **Achievements**
+## 🏆 **GitHub Achievements**
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv0050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv0050&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies"/>
+  
+  <!-- Additional Achievement Metrics -->
+  <br><br>
+  
+  ### 📈 **Contribution Metrics**
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Commits-1000+-58A6FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1F2937" alt="Total Commits"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Stars-50+-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="Total Stars"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Forks-20+-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="Total Forks"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repositories-25+-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="Total Repositories"/>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
