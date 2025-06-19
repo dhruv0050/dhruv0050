@@ -310,6 +310,4 @@ console.log("Welcome to my world of endless possibilities! 🌟");
   
   <br><br>
   
-  **© 2024 Dhruv Sharma • Made with GitHub README magic ✨**
-  
 </div>
