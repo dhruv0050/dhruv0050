@@ -5,7 +5,7 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dhruv%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=18"/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&color=58A6FF&background=00000000&multiline=false&lines=Welcome+to+my+digital+universe!+🌟;Coding+the+future%26;Clean+Coder+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&color=58A6FF&background=00000000&multiline=false&lines=Welcome+to+my+digital+universe!;Coding+the+future%26;Clean+Coder+%26+Innovator" alt="Typing SVG" />
   
   <!-- Professional Introduction -->
   <h2 style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Inter', sans-serif; margin: 30px 0 20px 0;">
