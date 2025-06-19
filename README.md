@@ -17,9 +17,6 @@
     <a href="https://dhruvs-portfolio-khaki.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937&borderRadius=25" alt="Portfolio"/>
     </a>
-    <a href="mailto:dhruvsh5467@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Contact-Let's_Connect-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" alt="Email"/>
-    </a>
   </p>
   
   <!-- Animated Coding GIF -->
@@ -304,10 +301,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
   <a href="https://www.linkedin.com/in/dhruv-sharma-331379154/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dhruvsh5467@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
+ 
   <br><br>
   
 </div>
