@@ -187,25 +187,16 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 **GitHub Analytics & Achievements**
-
-<div align="center">
-  
-  <!-- GitHub Stats Section -->
-  <h3>📈 Performance Metrics</h3>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruv0050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10&exclude_repo=repo1,repo2" alt="Most Used Languages"/>
-  
-  <!-- GitHub Streak Stats -->
-  <h3>🔥 Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv0050&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=7C3AED&border_radius=15" alt="GitHub Streak Stats"/>
-  
-  <!-- Activity Graph -->
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv0050&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&custom_title=My%20Contribution%20Graph&radius=10" alt="GitHub Activity Graph"/>
-  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dhruv0050&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dhruv0050&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dhruv0050&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
