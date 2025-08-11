@@ -130,7 +130,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <div align="center">
 
-### 🔥 **Core Languages**
+### 🔥 **Core Languages & Data Science**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)
@@ -139,6 +139,14 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
+
+#### 📊 Data Science & ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004C70?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=004C70)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099B4?style=for-the-badge&logo=python&logoColor=white&labelColor=0099B4)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E)
 
 ### 🎨 **Frontend Arsenal**
 
