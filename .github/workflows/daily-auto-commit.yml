@@ -1,0 +1,95 @@
+name: Daily Build & Report
+
+on:
+  schedule:
+    - cron: '0 21 * * *'    # daily at 02:30 IST (21:00 UTC previous day)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-build-report
+  cancel-in-progress: true
+
+jobs:
+  build-and-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository (with write permissions)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Show Node/npm versions
+        run: |
+          node -v
+          npm -v
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run production build
+        run: |
+          npm run build
+
+      - name: Generate build report
+        id: report
+        run: |
+          # calculate .next size in bytes (0 if missing)
+          if [ -d ".next" ]; then
+            BUILD_BYTES=$(du -sb .next | cut -f1)
+          else
+            BUILD_BYTES=0
+          fi
+
+          TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          NODE_VERSION=$(node -v)
+          NPM_VERSION=$(npm -v)
+          GIT_COMMIT=$(git rev-parse --short HEAD || echo "unknown")
+
+          mkdir -p auto-update
+
+          # write JSON safely using printf (avoids heredoc/YAML parsing issues)
+          printf '%s\n' \
+            '{' \
+            "  \"timestamp_utc\": \"${TIMESTAMP}\"," \
+            "  \"commit\": \"${GIT_COMMIT}\"," \
+            "  \"node_version\": \"${NODE_VERSION}\"," \
+            "  \"npm_version\": \"${NPM_VERSION}\"," \
+            "  \"next_build_bytes\": ${BUILD_BYTES}" \
+            '}' > auto-update/build-report.json
+
+          echo "report_created=true" >> $GITHUB_OUTPUT
+
+      - name: Debug - show report
+        run: |
+          echo "---- build-report.json ----"
+          cat auto-update/build-report.json || true
+
+      - name: Stage report file
+        run: git add auto-update/build-report.json || true
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --cached --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & push (only if changed)
+        if: steps.check.outputs.no_changes == 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # ensure local branch is up-to-date to avoid non-fast-forward rejection
+          git pull --rebase origin main || true
+          git commit -m "fixes" || true
+          git push origin main
