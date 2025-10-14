@@ -124,5 +124,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Ensure branch is up to date and avoid non-fast-forward
           git pull --rebase origin main || true
-          git commit -m "ui and backend fixes" || true
+          git commit -m "commit" || true
           git push origin main
