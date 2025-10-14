@@ -211,7 +211,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
   <!-- Contribution Snake -->
   <h3>🐍 Contribution Snake</h3>
   <!-- <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   
 </div>
 
