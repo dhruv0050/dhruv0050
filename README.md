@@ -9,7 +9,7 @@
   
   <!-- Professional Introduction -->
   <h2 style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Inter', sans-serif; margin: 30px 0 20px 0;">
-    🎯 Computer Science Student | India
+    Computer Science Student | India
   </h2>
   
   <!-- Portfolio & Resume Links -->
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 **About My Journey**
+## **About My Journey**
 
 <div align="center">
 
@@ -39,13 +39,13 @@ const dhruv = {
         status: "Always ready to code! 💻"
     },
     currentMission: [
-        "🎯 Mastering Full Stack Development",
-        "📚 Conquering Data Structures & Algorithms", 
-        "🌱 Exploring AI/ML & Cloud Technologies",
-        "🤝 Contributing to Open Source Projects"
+        "Mastering Full Stack Development",
+        "Conquering Data Structures & Algorithms", 
+        "Exploring AI/ML & Cloud Technologies",
+        "Contributing to Open Source Projects"
     ],
     techPhilosophy: "Clean code, creative solutions, continuous learning",
-    lifeMotto: "Debug like a detective, code like an artist! 🕵️‍♂️🎨",
+    lifeMotto: "Debug like a detective, code like an artist! ",
     currentlyListening: "Lo-fi beats while coding 🎵",
 };
 
@@ -56,7 +56,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 **Current Focus Areas**
+## **Current Focus Areas**
 
 <div align="center">
   
@@ -64,24 +64,24 @@ console.log("Welcome to my world of endless possibilities! 🌟");
     <tr>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Web Development"/>
-        <br><strong>🌐 Full Stack Development</strong>
+        <br><strong>Full Stack Development</strong>
         <br><em>Building scalable web applications</em>
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32c4-e3fb-4d6e-ac8d-5616c8366c1e.gif" width="100" alt="DSA"/>
-        <br><strong>🧠 Data Structures & Algorithms</strong>
+        <br><strong>Data Structures & Algorithms</strong>
         <br><em>Solving complex problems efficiently</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="AI/ML"/>
-        <br><strong>🤖 AI/ML & Cloud Computing</strong>
+        <br><strong>AI/ML & Cloud Computing</strong>
         <br><em>Exploring intelligent solutions</em>
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Open Source"/>
-        <br><strong>🌟 Open Source Contribution</strong>
+        <br><strong>Open Source Contribution</strong>
         <br><em>Giving back to the community</em>
       </td>
     </tr>
@@ -91,11 +91,11 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 
 <div align="center">
   
-  ### 📱 **Social Platforms**
+  ### **Social Platforms**
   
   <a href="https://www.linkedin.com/in/dhruv-sharma-331379154/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20" alt="LinkedIn"/>
@@ -126,7 +126,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💻 **My Tech Universe**
+## **My Tech Universe**
 
 <div align="center">
 
@@ -204,12 +204,12 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 **Achievements & Recognition**
+## **Achievements & Recognition**
 
 <div align="center">
   
   <!-- Contribution Snake -->
-  <h3>🐍 Contribution Snake</h3>
+  <h3>Contribution Snake</h3>
   <!-- <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   
@@ -217,11 +217,11 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 **Featured Projects & Repositories**
+## **Featured Projects & Repositories**
 
 <div align="center">
   
-  <h3>✨ Explore My Digital Creations</h3>
+  <h3>Explore My Digital Creations</h3>
   
   <a href="https://github.com/dhruv0050?tab=repositories">
     <img src="https://img.shields.io/badge/🔥_Explore_All_Repositories-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="All Repositories"/>
@@ -233,7 +233,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
     <img src="https://img.shields.io/badge/⭐_Starred_Projects-FFA500?style=for-the-badge&logo=star&logoColor=white&labelColor=1F2937" alt="Starred"/>
   </a>
   
-  ### 🌟 **Project Highlights**
+  ### **Project Highlights**
   
   <div style="margin: 20px 0;">
     <em>🚧 Building amazing projects... Stay tuned for updates! 🚧</em>
@@ -243,7 +243,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💡 **Random Dev Quote**
+## **Random Dev Quote**
 
 <div align="center">
   
@@ -253,18 +253,18 @@ console.log("Welcome to my world of endless possibilities! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 **Support My Work**
+## **Support My Work**
 
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/216656981-ec3b39d8-5f8b-4b0c-9b8b-b5a5a0ee9a7b.gif" width="150" alt="Support"/>
   
-  <h3>💝 Show Some Love!</h3>
+  <h3>Show Some Love!</h3>
   
   <p style="color: #7C3AED; font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
-    🌟 If you find my work interesting, give it a star!<br>
-    🤝 Want to collaborate? Let's connect and build something amazing!<br>
-    ☕ Enjoyed my projects? Consider buying me a coffee!
+     If you find my work interesting, give it a star!<br>
+     Want to collaborate? Let's connect and build something amazing!<br>
+     Enjoyed my projects? Consider buying me a coffee!
   </p>
   
   <a href="https://github.com/dhruv0050">
@@ -287,9 +287,7 @@ console.log("Welcome to my world of endless possibilities! 🌟");
   
   <br>
   
-  ## Thanks for visiting! 🙏
-  
-  **💻 Crafted with ❤️ and lots of ☕ by Dhruv Sharma**
+  ## Thanks for visiting! 
   
   *"The best error message is the one that never shows up."*  
   **- Thomas Fuchs**
